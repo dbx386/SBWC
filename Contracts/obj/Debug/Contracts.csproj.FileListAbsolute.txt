@@ -1,0 +1,5 @@
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Contracts\bin\Debug\Contracts.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Contracts\bin\Debug\Contracts.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Contracts\obj\Debug\Contracts.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Contracts\obj\Debug\Contracts.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache

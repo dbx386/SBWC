@@ -1,0 +1,8 @@
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\bin\Debug\Host.exe.config
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\bin\Debug\Host.exe
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\bin\Debug\Host.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\bin\Debug\Contracts.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\bin\Debug\Contracts.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\obj\Debug\Host.exe
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Host\obj\Debug\Host.pdb
