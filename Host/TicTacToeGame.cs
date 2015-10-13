@@ -54,7 +54,7 @@ namespace Host
 
         public bool MadeMove(int x, int y)
         {
-            switch (User)
+            switch ()
             {
                 case user1.Name:
                 if (logicfield[x, y] != 0)
@@ -70,10 +70,6 @@ namespace Host
 
             }
         }
-
-
-
-
     }
 
 }

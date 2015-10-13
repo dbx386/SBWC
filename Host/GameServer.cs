@@ -41,7 +41,7 @@ namespace Host
             Guid gd = new Guid(name);
             User user = new User();
             user.Id = gd.ToString();
-            user.Name = name;
+            user.Name = name; //git
             user.Returner = OperationContext.Current.GetCallbackChannel<IGameContractReturner>();
 
             throw new NotImplementedException();
