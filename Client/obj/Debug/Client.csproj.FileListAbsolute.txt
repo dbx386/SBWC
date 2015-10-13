@@ -1,0 +1,15 @@
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\ClientUI.baml
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\ClientUI.g.cs
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\App.g.cs
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.g.resources
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\bin\Debug\Client.exe.config
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\bin\Debug\Client.exe
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\bin\Debug\Client.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\bin\Debug\Contracts.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\bin\Debug\Contracts.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.exe
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\Client\obj\Debug\Client.pdb

@@ -1,0 +1,4 @@
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\GameServerLib\bin\Debug\GameServerLib.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\GameServerLib\bin\Debug\GameServerLib.pdb
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\GameServerLib\obj\Debug\GameServerLib.dll
+D:\Education Step\datNET\WCF\SeaBattleGameWithChat\ClientSolution\GameServerLib\obj\Debug\GameServerLib.pdb
