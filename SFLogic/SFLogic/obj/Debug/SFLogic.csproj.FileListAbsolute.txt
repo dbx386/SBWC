@@ -1,0 +1,12 @@
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\bin\Debug\SFLogic.exe.config
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\obj\Debug\SFLogic.csprojResolveAssemblyReference.cache
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\bin\Debug\SFLogic.exe
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\bin\Debug\SFLogic.pdb
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\obj\Debug\SFLogic.exe
+C:\Users\Student.STEP\Documents\Visual Studio 2013\Projects\SFLogic\SFLogic\obj\Debug\SFLogic.pdb
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\bin\Debug\SFLogic.exe.config
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\obj\Debug\SFLogic.exe
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\obj\Debug\SFLogic.pdb
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\bin\Debug\SFLogic.exe
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\bin\Debug\SFLogic.pdb
+D:\STEP\WCF\SeaFight\SFLogic\SFLogic\SFLogic\obj\Debug\SFLogic.csprojResolveAssemblyReference.cache
